@@ -13,4 +13,8 @@ spec:
       targetPort: 3000
   selector:
     app: front-javascript
+<<<<<<< HEAD
     version: v1
+=======
+    version: v1
+>>>>>>> 52126e5a3de7100743cab791e5d2c0ecb3ccd171
